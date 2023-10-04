@@ -39,8 +39,6 @@ chown -R $app:www-data "$install_dir"
 #=================================================
 ynh_script_progression --message="Upgrading system configurations related to $app..." --weight=1
 
-# This should be a literal copypaste of what happened in the install's "System configuration" section
-
 ynh_add_fpm_config
 
 ynh_add_nginx_config
