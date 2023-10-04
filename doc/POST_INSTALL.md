@@ -1,7 +1,2 @@
-This is a dummy disclaimer to display after the install
-
-The app url is `__DOMAIN____PATH__`
-
-The app install dir is `__INSTALL_DIR__`
-
-The app id is `__ID__`
+db name `__DB_NAME__`
+db pwd `__DB_PWD__`
