@@ -47,7 +47,7 @@ ram.runtime = "50M"
     [resources.sources]
 
         [resources.sources.main]
-        url = "https://github.com/foo/bar/archive/refs/tags/v1.2.3.tar.gz"
+        url = "https://github.com/itflow-org/itflow/archive/7e595d943611299c5e91affb8519055f2208a1c8.tar.gz"
         sha256 = "a7afbb248c46932f128e29002cc168debef1781133346c5faaf3fcbb62df4cbb"
         autoupdate.strategy = "latest_github_tag"
 
